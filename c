@@ -1,0 +1,3 @@
+algo=GRAM
+pool=api-pool.gramcoin.org:443
+user=UQBBFQu749EICPyctmdIGmxffsHWxObsOEjprnfkq6ir_V3r
